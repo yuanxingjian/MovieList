@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <!--菜单字符常量设置-->
+    <string name="app_name">影视清单</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_new">最新上映</string>
+    <string name="menu_coming">即将上映</string>
+    <string name="menu_top25">欧美排行</string>
+    <string name="menu_collect">我的收藏</string>
+    <string name="menu_settings">系统设置</string>
+    <string name="line_setting">设置</string>
+    <!--顶部个人信息常量设置-->
+    <string name="header_titile">袁兴健</string>
+    <string name="header_subtitile">Android开发</string>
+
+
+    <!--menu-->
+    <string name="ic_search">搜索</string>
+    <string name="ic_setting">设置</string>
+    <string name="ic_sub_collect">收藏</string>
+    <!--ListActivityvity-->
+    <string name="collect_completed">收藏成功!  (＾－＾)V</string>
+    <string name="collect_cancel">取消收藏!  ︿(￣︶￣)︿</string>
+    <string name="exit">再按一次退出程序</string>
+    <!--SubjectItem-->
+    <string name="genres">类型:</string>
+    <string name="directors">导演:</string>
+    <string name="director">(导演)</string>
+    <string name="casts">主演:</string>
+    <string name="dir_and_cast">(导演兼主演)</string>
+    <string name="cast">(主演)</string>
+    <string name="collect">(</string>
+    <string name="count">人评价)</string>
+    <string name="box">票房:</string>
+    <string name="ake">又名:</string>
+    <string name="countries">制片国家或地区:</string>
+    <string name="summary">简介：</string>
+    <string name="no_rating">暂无评分</string>
+    <string name="overflow">取消收藏</string>
+    <string name="douban_rating">豆瓣评分：</string>
+    <!--DetailActivityvity-->
+    <string name="cast_list">演员列表：</string>
+    <string name="recommend_list">相关推荐：</string>
+    <string name="recommend_load_fail">获取失败请重试…</string>
+    <string name="recommend_loading">正在加载推荐…</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

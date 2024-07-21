@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.movieshare.ui.MovieListFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_movie_list" />
+
+    <fragment
+        android:id="@+id/nav_new"
+        android:name="com.example.movieshare.ui.NewMoviesFragment"
+        android:label="@string/menu_new"
+        tools:layout="@layout/fragment_new_movies" />
+
+    <fragment
+        android:id="@+id/nav_coming"
+        android:name="com.example.movieshare.ui.ComingMoviesFragment"
+        android:label="@string/menu_coming"
+        tools:layout="@layout/fragment_coming_movies" />
+
+
+    <fragment
+        android:id="@+id/nav_collect"
+        android:name="com.example.movieshare.ui.CollectFragment"
+        android:label="@string/menu_collect"
+        tools:layout="@layout/fragment_collect" />
+
+
+
+</navigation>
